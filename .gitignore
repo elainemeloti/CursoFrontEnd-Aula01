@@ -1,0 +1,85 @@
+Desenvolvimento Front End
+
+1) O que é Desenvolvimento Front End?
+- É toda a apresentação visual de um site.
+- É a forma como o conteúdo se apresenta na tela.
+- É a estrutura hierárquica das informações e a aplicação do design para a exibição das informações.
+- É manipular elementos em uma tela.
+- 
+
+
+Qual a diferença entre front end e back end?
+- Segundo o Wikipédia, respectivamente, são etapas inicial e final de um processo.
+
+Na prática, com o que o Front End trabalha?
+- Segundo o site http://tableless.github.io/iniciantes/manual/obasico/o-que-front-back.html, com linguagens client-side:
+  . HTML
+  . CSS
+  . JavaScript
+
+Na prática, com o que o Back End trabalha?
+- Segundo o site http://tableless.github.io/iniciantes/manual/obasico/o-que-front-back.html, com linguagens server-side:
+  . PHP
+  . ASP
+  . Java
+  . Ruby
+  . Python
+
+O que faz um desenvolvedor Front End?
+- Segundo o Wikipédia, ele é responsável por coletar a entrada do usuário em várias formas e processá-la para adequá-la a uma especificação em que o back end possa utilizar.
+
+O que eu preciso saber/estudar para me tornar um desenvolvedor Front End?
+- Para mais detalhes, ler o site http://leandrooriente.com/como-me-tornar-um-desenvolvedor-front-end/:
+  . HTML
+  . CSS
+  . JavaScript
+  . Lógica de Programação
+  . Algoritmos
+  . jQuery
+  . Ferramentas de Desenvolvedor
+  . Noções Gerais das demais áreas de TI
+  . Software de edição de imagem (PhotoShop, FireWorks)
+  . Versionamento (Git, SVN)
+  . Tente utilizar o Linux por um tempo
+  . Utilize ferramentas de automatização, como o Grunt ou o Bower
+  . Participe de congressos
+  . Atualize seu Likedin
+  . Crie um portfólio e/ou conta no GitHub
+  . Jamais mande seu currículo como .doc para nenhuma empresa. Se for mandar um arquivo que seja um pdf
+  . Não utilize o DreamWeaver
+  . Se preocupe com a perfomance
+  . Se preocupe com o SEO
+  . Leia a MestreSEO (Agência Mestre) mensalmente Site: http://www.agenciamestre.com/
+  . CSS modular (OOCSS) Estude pelos sites: http://foundation.zurb.com/ e http://getbootstrap.com/
+  . Utilize os pré-compiladores (LESS e SASS)
+  . Conhecimento regular em algumas linguagens server side
+  . Domínio total do JavaScript
+  . Domínio/conhecimento em algum Framework é um diferencial (Angularjs - menino de ouro do Google, Backbone, PhoneGap - para mobile, Knockout, Ember)
+  . 
+  
+
+Sites para estudar conteúdo de Desenvolvimento Front End:
+- Maujor - http://www.maujor.com/index.php
+
+Livros para ler sobre o desenvolvimento Front End:
+- jQuery (Use a Cabeça)
+- JavaScript - Guia do Programador (Novatec)
+- Ajax com jQuery (Novatec)
+- jQuery - A Biblioteca do Programador JavaScript (Novatec)
+
+IDEs recomendadas:
+- Notepad++
+- Sublime
+
+Carga Horária: 20h.
+
+Conteúdo Programático:
+- jQuery (jQuery, jQuery UI)
+- JavaScript
+- Bootstrap
+
+
+
+Outros sites para pesquisas:
+http://browserdiet.com/pt/ Para iniciantes.
+
