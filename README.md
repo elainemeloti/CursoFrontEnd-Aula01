@@ -73,3 +73,4 @@ Livros para ler sobre o desenvolvimento Front End:
 IDEs recomendadas:
 - Notepad++
 - Sublime
+- Brackets
